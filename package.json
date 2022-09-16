@@ -1,0 +1,21 @@
+{
+  "name": "fibonacci-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "asaba doreen",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.23.1"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
